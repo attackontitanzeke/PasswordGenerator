@@ -10,6 +10,9 @@ Deployment: Netlify
 
 ✨ Features
 ✅ Generate random strong passwords instantly
+
 ✅ Customize length, uppercase, lowercase, numbers, and symbols
+
 ✅ Copy to Clipboard functionality
+
 ✅ Fully responsive design
