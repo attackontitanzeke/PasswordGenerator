@@ -9,6 +9,7 @@ Frontend: React.js, HTML, CSS
 Deployment: Netlify
 
 ✨ Features
+
 ✅ Generate random strong passwords instantly
 
 ✅ Customize length, uppercase, lowercase, numbers, and symbols
