@@ -7,6 +7,7 @@ A simple and secure password generator built using React.js. Users can generate 
 🛠️ Tech Stack
 Frontend: React.js, HTML, CSS
 Deployment: Netlify
+
 ✨ Features
 ✅ Generate random strong passwords instantly
 ✅ Customize length, uppercase, lowercase, numbers, and symbols
